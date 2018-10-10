@@ -3,7 +3,8 @@
 A Flutter UI Assignment given at #FlutterJam at GDG Bhubaneswar.
 
 UI Screens 
-![screenshot_20181010-195119](https://user-images.githubusercontent.com/21126403/46743144-0e482480-ccc6-11e8-844f-7dd507d5a3f9.jpg)
+![screen shot 2018-10-10 at 7 53 47 pm](https://user-images.githubusercontent.com/21126403/46743232-3d5e9600-ccc6-11e8-8c8a-b49c5879a5c4.png)
+
 
 
 ## Getting Started
