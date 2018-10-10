@@ -1,6 +1,6 @@
-# flutter_assignment
+# Flutter-Login-Signup-UI
 
-A new Flutter application.
+A Flutter UI Assignment given at #FlutterJam at GDG Bhubaneswar.
 
 ## Getting Started
 
